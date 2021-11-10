@@ -44,7 +44,7 @@ _Teller is an OSS and FREE productivity secret manager for developers made by [S
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Buzzing](#buzzing)
-  - [Instabug](#instabug)
+  - [Instabug](https://github.com/Instabug/Instabug-React-Native)
 - [Categories](#categories)
   - [Conferences](#conferences)
     - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
